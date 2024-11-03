@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Yakob Getu</h1>
-<h3 align="left">Computer Science student at Ohio State, passionate about using tech to make a positive impact.</h3>
+<h3 align="left">Third Year Computer Science student at Ohio State, passionate about using tech to make a positive impact.</h3>
 
 - 🔭 I’m currently working on [devosu/event-feed](https://github.com/devosu/event-feed)
 
